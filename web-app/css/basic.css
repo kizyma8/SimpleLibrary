@@ -1,0 +1,138 @@
+body{
+    background-color: #f2f2f2;
+    background-size:100% ;
+    min-width: 1000px;
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 0;
+}
+.content-header{
+    background-color: black;
+    color:white;
+    height: 25%;
+}
+.link{
+    display: inline-block;
+}
+#head{
+    display: inline-block;
+}
+#banner{
+    text-align: left;
+    color: white;
+    font-size: 60px;
+    margin-left: 2%;
+}
+.button-bar{
+    float: right;
+    margin: 2%;
+    font-size: 20px;
+}
+
+#add-book{
+    margin-left: 2%;
+    font-size: 20px;
+}
+
+#searchableForm{
+    margin-left: 30%;
+    margin-top: -3%;
+}
+
+.container{
+    border-radius: 15px;
+    background: white;
+    margin-right: 2%;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+.book-container{
+    margin-left: 1%;
+}
+.sbook{
+    background:#f2f2f2 ;
+    border-radius: 15px;
+    display: inline-block;
+    margin: 1%;
+    height: 25%;
+    width: 22%;
+    text-align: center;
+}
+.input-form{
+    margin: 1%;
+    padding-top: 3%;
+    text-align: center;
+}
+.input-book{
+    margin-left: 30%;
+    width: 40%;
+    height: 60%;
+    border-radius: 15px;
+    background: white;
+    margin-top: 2%;
+}
+
+
+#submitButton{
+    margin-top: 2%;
+    margin-left: 40%;
+}
+#bunner-add{
+    font-size: 30px;
+    margin-top: 2%;
+    font-weight: 600;
+    text-align: center;
+    margin-left: 8%;
+}
+#reg{
+    background: white;
+    height: 70%;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+    margin-bottom: 20%;
+    border: solid 1px;
+    border-radius: 15px;
+}
+.header-login{
+    height: 15%;
+    background: black;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    font-weight: 600;
+}
+.footer-form{
+    background: black;
+    color: white;
+    text-align: center;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    height: 12%;
+}
+.name{
+    margin-top: 20%;
+}
+.bad-result{
+    text-align: center;
+}
+.line{
+    display: inline-block;
+    margin-left: 5%;
+}
+
+.book-field{
+    margin-top: 2%;
+}
+.button{
+    color: white;
+    border: none;
+    border-radius: 15px;
+    background-color: black;
+    font-weight: 800;
+    width: 20%;
+    height: 8%;
+
+}

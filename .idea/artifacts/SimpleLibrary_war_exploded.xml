@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SimpleLibrary:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimpleLibrary_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SimpleLibrary" />
+          <element id="module-output" name="SimpleLibrary-grailsPlugins" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="SimpleLibrary/web/GrailsWeb" />
+      <element id="javaee-facet-resources" facet="SimpleLibrary-grailsPlugins/web/GrailsWeb" />
+    </root>
+  </artifact>
+</component>
